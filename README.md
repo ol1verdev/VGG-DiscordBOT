@@ -2,5 +2,5 @@
 
 <html>
 <body>
-A discordbot for ValorantGG.net (<a href="default.asp" target="_blank">Discord Server</a>)
+A discordbot for <a href='https://valorantgg.net/'><button>ValorantGG.net</button></a> (<a href='https://discord.gg/dpFFwFuXCV'><button>Discord Server</button></a>)
 </body>
